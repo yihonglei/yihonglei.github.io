@@ -7,7 +7,7 @@
 
 # Site settings
 title: 易宏磊的技术博客
-brief-intro: 淡泊以明志，宁静以致远!
+brief-intro: 智者务其实，愚者争虚名
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yihonglei.github.io" # the base hostname & protocol for your site
 
