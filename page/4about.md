@@ -16,11 +16,10 @@ type: page
 * 其他乱七八糟也搞下
 
 ## 联系我
-
-* github：https://github.com/yihonglei
-* csdn：https://blog.csdn.net/yhl_jxy
+* [github](https://github.com/yihonglei)
+* [csdn](https://blog.csdn.net/yhl_jxy)
+* [weibo](https://weibo.com/u/6760221856)
 * email：yhllotus@163.com
-* weibo：https://weibo.com/u/6760221856
 
 ## 友情链接
 * Spring技术 [thinking-in-spring](https://github.com/yihonglei/thinking-in-spring)
