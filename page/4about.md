@@ -10,24 +10,21 @@ type: page
 {:toc}
 
 ## 关于我
-* 喜欢阅读武侠小说，总梦想仗剑走天涯！
-* 也练练字，具有文人墨客的情怀！
-* 有空就写写代码，不装逼，不夸大！
-* 生活中是一个具有十足幽默感和内涵的暖男帅锅一枚（不是世界上缺少帅，是你不懂欣赏我的帅，别打我，哈哈）！
-* 工作中崇尚团队精神，团队力量！
+* 关注算法领域、架构领域
+* 致力于jvm、多线程/高并发
+* 致力于mysql、netty
+* 其他乱七八糟也搞下
 
 ## 联系我
 
-* GitHub：[yihonglei](https://github.com/yihonglei)
-* [CSDN](https://blog.csdn.net/yhl_jxy)
-* email：544259453@qq.com
-* [Weibo](https://weibo.com/u/6760221856)
-
-## 关于本站
+* github：https://github.com/yihonglei
+* csdn：https://blog.csdn.net/yhl_jxy
+* email：yhllotus@163.com
+* weibo：https://weibo.com/u/6760221856
 
 ## 友情链接
-
-
-## Comments
-
-{% include comments.html %}
+* Spring技术 [thinking-in-spring](https://github.com/yihonglei/thinking-in-spring)
+* Netty技术 [thinking-in-netty](https://github.com/yihonglei/thinking-in-netty)
+* 算法 [algorithm](https://github.com/yihonglei/algorithm)
+* SpringBoot框架集成 [rose-framework](https://github.com/yihonglei/rose-framework)
+* Java应用监控[sunflower](https://github.com/jchry/sunflower)
