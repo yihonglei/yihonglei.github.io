@@ -22,8 +22,9 @@ type: page
 * email：yhllotus@163.com
 
 ## 友情链接
-* Spring技术 [thinking-in-spring](https://github.com/yihonglei/thinking-in-spring)
-* Netty技术 [thinking-in-netty](https://github.com/yihonglei/thinking-in-netty)
+* Spring [thinking-in-spring](https://github.com/yihonglei/thinking-in-spring)
+* SpringBoot [rose-framework](https://github.com/yihonglei/rose-framework)
+* SpringCloud [thinking-in-springcloud](https://github.com/yihonglei/thinking-in-springcloud)
+* Netty [thinking-in-netty](https://github.com/yihonglei/thinking-in-netty)
 * 算法 [algorithm](https://github.com/yihonglei/algorithm)
-* SpringBoot框架集成 [rose-framework](https://github.com/yihonglei/rose-framework)
 * Java应用监控 [sunflower](https://github.com/jchry/sunflower)
