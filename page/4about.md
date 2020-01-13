@@ -23,8 +23,10 @@ type: page
 
 ## 友情链接
 * Spring [thinking-in-spring](https://github.com/yihonglei/thinking-in-spring)
-* SpringBoot [rose-framework](https://github.com/yihonglei/rose-framework)
+* Spring MVC [thinking-in-springmvc](https://github.com/yihonglei/thinking-in-springmvc)
+* Spring Boot [thinking-in-springboot](https://github.com/yihonglei/thinking-in-springboot)
 * SpringCloud [thinking-in-springcloud](https://github.com/yihonglei/thinking-in-springcloud)
 * Netty [thinking-in-netty](https://github.com/yihonglei/thinking-in-netty)
-* 算法 [algorithm](https://github.com/yihonglei/algorithm)
+* Rose-Framework [rose-framework](https://github.com/yihonglei/rose-framework)
+* 数据结构和算法 [algorithm](https://github.com/yihonglei/algorithm)
 * Java应用监控 [sunflower](https://github.com/jchry/sunflower)
