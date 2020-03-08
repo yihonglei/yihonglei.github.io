@@ -10,10 +10,9 @@ type: page
 {:toc}
 
 ## 关于我
-* 关注算法领域、架构领域
-* 致力于jvm、多线程/高并发
-* 致力于mysql、netty
-* 其他乱七八糟的也搞下
+* 致力于JVM、多线程/高并发
+* 致力于MySql，分布式ORM
+* 致力于Java应用程序监控
 
 ## 联系我
 * [github](https://github.com/yihonglei)
@@ -24,10 +23,6 @@ type: page
 ## 友情链接
 * 数据结构和算法 [algorithm](https://github.com/yihonglei/algorithm)
 * Java Concurrent [thinking-in-concurrent](https://github.com/yihonglei/thinking-in-concurrent)
-* Spring [thinking-in-spring](https://github.com/yihonglei/thinking-in-spring)
-* Spring MVC [thinking-in-springmvc](https://github.com/yihonglei/thinking-in-springmvc)
-* Spring Boot [thinking-in-springboot](https://github.com/yihonglei/thinking-in-springboot)
-* Spring Cloud [thinking-in-springcloud](https://github.com/yihonglei/thinking-in-springcloud)
-* Netty [thinking-in-netty](https://github.com/yihonglei/thinking-in-netty)
-* Rose-Framework [rose-framework](https://github.com/yihonglei/rose-framework)
-* Java应用监控 [sunflower](https://github.com/jchry/sunflower)
+* Rose Framework [rose-framework](https://github.com/yihonglei/rose-framework)
+* Java应用程序监控 [sunflower](https://github.com/jchry/sunflower)
+* 分布式ORM框架[galaxy](https://github.com/jchry/galaxy)
