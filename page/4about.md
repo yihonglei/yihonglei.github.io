@@ -10,7 +10,7 @@ type: page
 {:toc}
 
 ## 关于我
-* 码农一枚
+* 宇宙的一粒尘埃
 
 ## 联系我
 * [github](https://github.com/yihonglei)
@@ -19,4 +19,6 @@ type: page
 * email：yhllotus@163.com
 
 ## 友情链接
-* [Java核心知识整理](https://github.com/yihonglei/road-of-arch)
+* [系统监控](https://github.com/jchry/sunflower)
+* [设计架构](https://github.com/yihonglei/daisy-framework)
+* [JDK源码解析](https://github.com/yihonglei/jdk-source-code-reading)
