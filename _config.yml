@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 街灯下的小草
+title: 街灯下的校草
 brief-intro: 智者务其实，愚者争虚名
 baseurl: "https://yihonglei.github.io" # the subpath of your site, e.g. /blog
 url: "https://yihonglei.github.io" # the base hostname & protocol for your site
@@ -17,13 +17,13 @@ permalink: /:year/:month/:day/:title/
 twitter_username: #yihonglei
 facebook_username: #yihonglei.water
 github_username:  yihonglei
-email: yhllotus@163.com
+email: jpeony@163.com
 weibo_username: 6760221856
 zhihu_username: yihonglei
 linkedIn_username: yihonglei
 dribbble_username:
 
-description_footer: 记录技术路上的点点滴滴!
+description_footer: 点滴
 
 # comments
 # two ways to comment, only choose one, and use your own short name
