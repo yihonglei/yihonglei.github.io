@@ -10,15 +10,14 @@ type: page
 {:toc}
 
 ## 关于我
-* 宇宙的一粒尘埃
+* 专注后端应用监控
 
 ## 联系我
 * [github](https://github.com/yihonglei)
 * [csdn](https://blog.csdn.net/yhl_jxy)
 * [weibo](https://weibo.com/u/6760221856)
-* email：yhllotus@163.com
+* email：jpeony@163.com
 
 ## 友情链接
-* [系统监控](https://github.com/jchry/sunflower)
-* [设计架构](https://github.com/yihonglei/daisy-framework)
-* [JDK源码解析](https://github.com/yihonglei/jdk-source-code-reading)
+* [APM](https://github.com/jchry/sunflower)
+* [JDK 源码解读](https://github.com/yihonglei/jdk-source-code-reading)
